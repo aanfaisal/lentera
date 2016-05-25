@@ -9,7 +9,12 @@
         "laravel/framework": "5.2.*",
         "laravelcollective/html": "^5.2",
         "laracasts/flash": "^1.3",
-        "rizalafani/rajaongkirlaravel": "dev-master"
+        "rizalafani/rajaongkirlaravel": "dev-master",
+        "acacha/admin-lte-template-laravel": "2.*",
+        "creativeorange/gravatar": "~1.0",
+        "maatwebsite/excel": "~2.0.0",
+        "barryvdh/laravel-dompdf": "0.6.*",
+        "appzcoder/crud-generator": "^1.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
